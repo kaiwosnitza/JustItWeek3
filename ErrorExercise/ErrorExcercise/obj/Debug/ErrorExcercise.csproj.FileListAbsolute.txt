@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\Kai\Week 3 C#\ErrorExcercise\ErrorExcercise\bin\Debug\ErrorExcercise.exe.config
+C:\Users\student\Desktop\Kai\Week 3 C#\ErrorExcercise\ErrorExcercise\obj\Debug\ErrorExcercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kai\Week 3 C#\ErrorExcercise\ErrorExcercise\bin\Debug\ErrorExcercise.exe
+C:\Users\student\Desktop\Kai\Week 3 C#\ErrorExcercise\ErrorExcercise\bin\Debug\ErrorExcercise.pdb
+C:\Users\student\Desktop\Kai\Week 3 C#\ErrorExcercise\ErrorExcercise\obj\Debug\ErrorExcercise.exe
+C:\Users\student\Desktop\Kai\Week 3 C#\ErrorExcercise\ErrorExcercise\obj\Debug\ErrorExcercise.pdb
+C:\Users\student\Desktop\Kai\Week-3-C#\ErrorExcercise\ErrorExcercise\bin\Debug\ErrorExcercise.exe.config
+C:\Users\student\Desktop\Kai\Week-3-C#\ErrorExcercise\ErrorExcercise\obj\Debug\ErrorExcercise.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\ErrorExcercise\ErrorExcercise\obj\Debug\ErrorExcercise.pdb
+C:\Users\student\Desktop\Kai\Week-3-C#\ErrorExercise\ErrorExcercise\bin\Debug\ErrorExcercise.exe.config
+C:\Users\student\Desktop\Kai\Week-3-C#\ErrorExercise\ErrorExcercise\obj\Debug\ErrorExcercise.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\ErrorExercise\ErrorExcercise\obj\Debug\ErrorExcercise.pdb
+C:\Users\student\Desktop\Kai\Week-3-C#\ErrorExercise\ErrorExcercise\bin\Debug\ErrorExcercise.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\ErrorExercise\ErrorExcercise\bin\Debug\ErrorExcercise.pdb
+C:\Users\student\Desktop\Kai\Week-3-C#\ErrorExercise\ErrorExcercise\obj\Debug\ErrorExcercise.csprojResolveAssemblyReference.cache

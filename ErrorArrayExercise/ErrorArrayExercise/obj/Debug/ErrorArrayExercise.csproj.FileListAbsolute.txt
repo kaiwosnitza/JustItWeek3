@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Kai\Week-3-C#\ErrorArrayExercise\ErrorArrayExercise\bin\Debug\ErrorArrayExercise.exe.config
+C:\Users\student\Desktop\Kai\Week-3-C#\ErrorArrayExercise\ErrorArrayExercise\obj\Debug\ErrorArrayExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kai\Week-3-C#\ErrorArrayExercise\ErrorArrayExercise\bin\Debug\ErrorArrayExercise.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\ErrorArrayExercise\ErrorArrayExercise\bin\Debug\ErrorArrayExercise.pdb
+C:\Users\student\Desktop\Kai\Week-3-C#\ErrorArrayExercise\ErrorArrayExercise\obj\Debug\ErrorArrayExercise.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\ErrorArrayExercise\ErrorArrayExercise\obj\Debug\ErrorArrayExercise.pdb

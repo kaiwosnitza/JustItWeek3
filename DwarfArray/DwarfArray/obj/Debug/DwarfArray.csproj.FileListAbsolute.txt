@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Kai\Week 3 C#\DwarfArray\DwarfArray\bin\Debug\DwarfArray.exe.config
+C:\Users\student\Desktop\Kai\Week 3 C#\DwarfArray\DwarfArray\obj\Debug\DwarfArray.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kai\Week 3 C#\DwarfArray\DwarfArray\bin\Debug\DwarfArray.exe
+C:\Users\student\Desktop\Kai\Week 3 C#\DwarfArray\DwarfArray\bin\Debug\DwarfArray.pdb
+C:\Users\student\Desktop\Kai\Week 3 C#\DwarfArray\DwarfArray\obj\Debug\DwarfArray.exe
+C:\Users\student\Desktop\Kai\Week 3 C#\DwarfArray\DwarfArray\obj\Debug\DwarfArray.pdb

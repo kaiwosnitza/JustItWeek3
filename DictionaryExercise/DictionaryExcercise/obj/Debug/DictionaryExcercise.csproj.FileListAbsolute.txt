@@ -1,0 +1,3 @@
+C:\Users\student\Desktop\Kai\Week 3 C#\DictionaryExcercise\DictionaryExcercise\bin\Debug\DictionaryExcercise.exe.config
+C:\Users\student\Desktop\Kai\Week 3 C#\DictionaryExcercise\DictionaryExcercise\obj\Debug\DictionaryExcercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kai\Week-3-C#\DictionaryExcercise\DictionaryExcercise\bin\Debug\DictionaryExcercise.exe.config
