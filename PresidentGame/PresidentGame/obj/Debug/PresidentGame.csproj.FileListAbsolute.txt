@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Kai\Week 3 C#\PresidentGame\PresidentGame\bin\Debug\PresidentGame.exe.config
+C:\Users\student\Desktop\Kai\Week 3 C#\PresidentGame\PresidentGame\bin\Debug\PresidentGame.exe
+C:\Users\student\Desktop\Kai\Week 3 C#\PresidentGame\PresidentGame\bin\Debug\PresidentGame.pdb
+C:\Users\student\Desktop\Kai\Week 3 C#\PresidentGame\PresidentGame\obj\Debug\PresidentGame.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kai\Week 3 C#\PresidentGame\PresidentGame\obj\Debug\PresidentGame.exe
+C:\Users\student\Desktop\Kai\Week 3 C#\PresidentGame\PresidentGame\obj\Debug\PresidentGame.pdb

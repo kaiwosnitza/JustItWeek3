@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\Kai\Week-3-C#\QuizDemo\QuizDemo\bin\Debug\QuizDemo.exe.config
+C:\Users\student\Desktop\Kai\Week-3-C#\QuizDemo\QuizDemo\bin\Debug\QuizDemo.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\QuizDemo\QuizDemo\bin\Debug\QuizDemo.pdb
+C:\Users\student\Desktop\Kai\Week-3-C#\QuizDemo\QuizDemo\obj\Debug\QuizDemo.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kai\Week-3-C#\QuizDemo\QuizDemo\obj\Debug\QuizDemo.Form1.resources
+C:\Users\student\Desktop\Kai\Week-3-C#\QuizDemo\QuizDemo\obj\Debug\QuizDemo.Properties.Resources.resources
+C:\Users\student\Desktop\Kai\Week-3-C#\QuizDemo\QuizDemo\obj\Debug\QuizDemo.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Kai\Week-3-C#\QuizDemo\QuizDemo\obj\Debug\QuizDemo.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\QuizDemo\QuizDemo\obj\Debug\QuizDemo.pdb

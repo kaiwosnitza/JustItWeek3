@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Kai\Week 3 C#\WhileLoopRiddle\WhileLoopRiddle\bin\Debug\WhileLoopRiddle.exe.config
+C:\Users\student\Desktop\Kai\Week 3 C#\WhileLoopRiddle\WhileLoopRiddle\obj\Debug\WhileLoopRiddle.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kai\Week 3 C#\WhileLoopRiddle\WhileLoopRiddle\bin\Debug\WhileLoopRiddle.exe
+C:\Users\student\Desktop\Kai\Week 3 C#\WhileLoopRiddle\WhileLoopRiddle\bin\Debug\WhileLoopRiddle.pdb
+C:\Users\student\Desktop\Kai\Week 3 C#\WhileLoopRiddle\WhileLoopRiddle\obj\Debug\WhileLoopRiddle.exe
+C:\Users\student\Desktop\Kai\Week 3 C#\WhileLoopRiddle\WhileLoopRiddle\obj\Debug\WhileLoopRiddle.pdb
