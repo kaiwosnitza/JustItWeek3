@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Kai\Week-3-C#\OOPolymorphismExcercise\OOPolymorphismExcercise\bin\Debug\OOPolymorphismExcercise.exe.config
+C:\Users\student\Desktop\Kai\Week-3-C#\OOPolymorphismExcercise\OOPolymorphismExcercise\bin\Debug\OOPolymorphismExcercise.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\OOPolymorphismExcercise\OOPolymorphismExcercise\bin\Debug\OOPolymorphismExcercise.pdb
+C:\Users\student\Desktop\Kai\Week-3-C#\OOPolymorphismExcercise\OOPolymorphismExcercise\obj\Debug\OOPolymorphismExcercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kai\Week-3-C#\OOPolymorphismExcercise\OOPolymorphismExcercise\obj\Debug\OOPolymorphismExcercise.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\OOPolymorphismExcercise\OOPolymorphismExcercise\obj\Debug\OOPolymorphismExcercise.pdb

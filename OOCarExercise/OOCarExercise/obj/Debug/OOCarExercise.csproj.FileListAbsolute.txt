@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Kai\Week-3-C#\OOCarExercise\OOCarExercise\bin\Debug\OOCarExercise.exe.config
+C:\Users\student\Desktop\Kai\Week-3-C#\OOCarExercise\OOCarExercise\bin\Debug\OOCarExercise.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\OOCarExercise\OOCarExercise\bin\Debug\OOCarExercise.pdb
+C:\Users\student\Desktop\Kai\Week-3-C#\OOCarExercise\OOCarExercise\obj\Debug\OOCarExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kai\Week-3-C#\OOCarExercise\OOCarExercise\obj\Debug\OOCarExercise.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\OOCarExercise\OOCarExercise\obj\Debug\OOCarExercise.pdb

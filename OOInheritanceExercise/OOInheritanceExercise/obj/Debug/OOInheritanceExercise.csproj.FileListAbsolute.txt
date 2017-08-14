@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Kai\Week-3-C#\OOInheritanceExercise\OOInheritanceExercise\bin\Debug\OOInheritanceExercise.exe.config
+C:\Users\student\Desktop\Kai\Week-3-C#\OOInheritanceExercise\OOInheritanceExercise\obj\Debug\OOInheritanceExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kai\Week-3-C#\OOInheritanceExercise\OOInheritanceExercise\bin\Debug\OOInheritanceExercise.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\OOInheritanceExercise\OOInheritanceExercise\bin\Debug\OOInheritanceExercise.pdb
+C:\Users\student\Desktop\Kai\Week-3-C#\OOInheritanceExercise\OOInheritanceExercise\obj\Debug\OOInheritanceExercise.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\OOInheritanceExercise\OOInheritanceExercise\obj\Debug\OOInheritanceExercise.pdb
