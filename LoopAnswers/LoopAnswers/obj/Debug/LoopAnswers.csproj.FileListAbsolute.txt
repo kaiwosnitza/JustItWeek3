@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Kai\Week 3 C#\LoopAnswers\LoopAnswers\bin\Debug\LoopAnswers.exe.config
+C:\Users\student\Desktop\Kai\Week 3 C#\LoopAnswers\LoopAnswers\bin\Debug\LoopAnswers.exe
+C:\Users\student\Desktop\Kai\Week 3 C#\LoopAnswers\LoopAnswers\bin\Debug\LoopAnswers.pdb
+C:\Users\student\Desktop\Kai\Week 3 C#\LoopAnswers\LoopAnswers\obj\Debug\LoopAnswers.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kai\Week 3 C#\LoopAnswers\LoopAnswers\obj\Debug\LoopAnswers.exe
+C:\Users\student\Desktop\Kai\Week 3 C#\LoopAnswers\LoopAnswers\obj\Debug\LoopAnswers.pdb

@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\Kai\Week 3 C#\GuessNumberGame\GuessNumberGame\bin\Debug\GuessNumberGame.exe.config
+C:\Users\student\Desktop\Kai\Week 3 C#\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kai\Week 3 C#\GuessNumberGame\GuessNumberGame\bin\Debug\GuessNumberGame.exe
+C:\Users\student\Desktop\Kai\Week 3 C#\GuessNumberGame\GuessNumberGame\bin\Debug\GuessNumberGame.pdb
+C:\Users\student\Desktop\Kai\Week 3 C#\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.exe
+C:\Users\student\Desktop\Kai\Week 3 C#\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.pdb
+C:\Users\student\Desktop\Kai\Week-3-C#\GuessNumberGame\GuessNumberGame\bin\Debug\GuessNumberGame.exe.config
+C:\Users\student\Desktop\Kai\Week-3-C#\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.pdb

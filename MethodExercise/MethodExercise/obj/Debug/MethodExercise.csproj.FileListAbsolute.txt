@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Kai\Week 3 C#\MethodExercise\MethodExercise\bin\Debug\MethodExercise.exe.config
+C:\Users\student\Desktop\Kai\Week 3 C#\MethodExercise\MethodExercise\obj\Debug\MethodExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kai\Week 3 C#\MethodExercise\MethodExercise\bin\Debug\MethodExercise.exe
+C:\Users\student\Desktop\Kai\Week 3 C#\MethodExercise\MethodExercise\bin\Debug\MethodExercise.pdb
+C:\Users\student\Desktop\Kai\Week 3 C#\MethodExercise\MethodExercise\obj\Debug\MethodExercise.exe
+C:\Users\student\Desktop\Kai\Week 3 C#\MethodExercise\MethodExercise\obj\Debug\MethodExercise.pdb

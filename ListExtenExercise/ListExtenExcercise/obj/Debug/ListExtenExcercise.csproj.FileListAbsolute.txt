@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\Kai\Week 3 C#\ListExtenExcercise\ListExtenExcercise\bin\Debug\ListExtenExcercise.exe.config
+C:\Users\student\Desktop\Kai\Week-3-C#\ListExtenExercise\ListExtenExcercise\bin\Debug\ListExtenExcercise.exe.config
+C:\Users\student\Desktop\Kai\Week-3-C#\ListExtenExercise\ListExtenExcercise\obj\Debug\ListExtenExcercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kai\Week-3-C#\ListExtenExercise\ListExtenExcercise\bin\Debug\ListExtenExcercise.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\ListExtenExercise\ListExtenExcercise\bin\Debug\ListExtenExcercise.pdb
+C:\Users\student\Desktop\Kai\Week-3-C#\ListExtenExercise\ListExtenExcercise\obj\Debug\ListExtenExcercise.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\ListExtenExercise\ListExtenExcercise\obj\Debug\ListExtenExcercise.pdb

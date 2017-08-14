@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\Kai\Week 3 C#\ListExcercise\ListExcercise\bin\Debug\ListExcercise.exe.config
+C:\Users\student\Desktop\Kai\Week 3 C#\ListExcercise\ListExcercise\obj\Debug\ListExcercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kai\Week 3 C#\ListExcercise\ListExcercise\bin\Debug\ListExcercise.exe
+C:\Users\student\Desktop\Kai\Week 3 C#\ListExcercise\ListExcercise\bin\Debug\ListExcercise.pdb
+C:\Users\student\Desktop\Kai\Week 3 C#\ListExcercise\ListExcercise\obj\Debug\ListExcercise.exe
+C:\Users\student\Desktop\Kai\Week 3 C#\ListExcercise\ListExcercise\obj\Debug\ListExcercise.pdb
+C:\Users\student\Desktop\Kai\Week-3-C#\ListExcercise\ListExcercise\bin\Debug\ListExcercise.exe.config
+C:\Users\student\Desktop\Kai\Week-3-C#\ListExcercise\ListExcercise\obj\Debug\ListExcercise.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\ListExcercise\ListExcercise\obj\Debug\ListExcercise.pdb
+C:\Users\student\Desktop\Kai\Week-3-C#\ListExcercise\ListExcercise\bin\Debug\ListExcercise.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\ListExcercise\ListExcercise\bin\Debug\ListExcercise.pdb
+C:\Users\student\Desktop\Kai\Week-3-C#\ListExcercise\ListExcercise\obj\Debug\ListExcercise.csprojResolveAssemblyReference.cache
