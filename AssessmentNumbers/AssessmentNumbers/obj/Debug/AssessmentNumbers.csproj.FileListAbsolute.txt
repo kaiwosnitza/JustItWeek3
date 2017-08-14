@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Kai\Week-3-C#\AssessmentNumbers\AssessmentNumbers\bin\Debug\AssessmentNumbers.exe.config
+C:\Users\student\Desktop\Kai\Week-3-C#\AssessmentNumbers\AssessmentNumbers\bin\Debug\AssessmentNumbers.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\AssessmentNumbers\AssessmentNumbers\bin\Debug\AssessmentNumbers.pdb
+C:\Users\student\Desktop\Kai\Week-3-C#\AssessmentNumbers\AssessmentNumbers\obj\Debug\AssessmentNumbers.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kai\Week-3-C#\AssessmentNumbers\AssessmentNumbers\obj\Debug\AssessmentNumbers.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\AssessmentNumbers\AssessmentNumbers\obj\Debug\AssessmentNumbers.pdb

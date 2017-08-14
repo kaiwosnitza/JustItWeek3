@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\Kai\Week-3-C#\BirthdayMessage\BirthdayMessage\bin\Debug\BirthdayMessage.exe.config
+C:\Users\student\Desktop\Kai\Week-3-C#\BirthdayMessage\BirthdayMessage\bin\Debug\BirthdayMessage.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\BirthdayMessage\BirthdayMessage\bin\Debug\BirthdayMessage.pdb
+C:\Users\student\Desktop\Kai\Week-3-C#\BirthdayMessage\BirthdayMessage\obj\Debug\BirthdayMessage.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kai\Week-3-C#\BirthdayMessage\BirthdayMessage\obj\Debug\BirthdayMessage.Form1.resources
+C:\Users\student\Desktop\Kai\Week-3-C#\BirthdayMessage\BirthdayMessage\obj\Debug\BirthdayMessage.Properties.Resources.resources
+C:\Users\student\Desktop\Kai\Week-3-C#\BirthdayMessage\BirthdayMessage\obj\Debug\BirthdayMessage.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Kai\Week-3-C#\BirthdayMessage\BirthdayMessage\obj\Debug\BirthdayMessage.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\BirthdayMessage\BirthdayMessage\obj\Debug\BirthdayMessage.pdb

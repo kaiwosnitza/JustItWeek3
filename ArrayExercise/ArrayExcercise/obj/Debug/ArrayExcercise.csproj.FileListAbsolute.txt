@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\Kai\Week 3 C#\ArrayExcercise\ArrayExcercise\bin\Debug\ArrayExcercise.exe.config
+C:\Users\student\Desktop\Kai\Week 3 C#\ArrayExcercise\ArrayExcercise\bin\Debug\ArrayExcercise.exe
+C:\Users\student\Desktop\Kai\Week 3 C#\ArrayExcercise\ArrayExcercise\bin\Debug\ArrayExcercise.pdb
+C:\Users\student\Desktop\Kai\Week 3 C#\ArrayExcercise\ArrayExcercise\obj\Debug\ArrayExcercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Kai\Week 3 C#\ArrayExcercise\ArrayExcercise\obj\Debug\ArrayExcercise.exe
+C:\Users\student\Desktop\Kai\Week 3 C#\ArrayExcercise\ArrayExcercise\obj\Debug\ArrayExcercise.pdb
+C:\Users\student\Desktop\Kai\Week-3-C#\ArrayExcercise\ArrayExcercise\bin\Debug\ArrayExcercise.exe.config
+C:\Users\student\Desktop\Kai\Week-3-C#\ArrayExcercise\ArrayExcercise\obj\Debug\ArrayExcercise.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\ArrayExcercise\ArrayExcercise\obj\Debug\ArrayExcercise.pdb
+C:\Users\student\Desktop\Kai\Week-3-C#\ArrayExercise\ArrayExcercise\bin\Debug\ArrayExcercise.exe.config
+C:\Users\student\Desktop\Kai\Week-3-C#\ArrayExercise\ArrayExcercise\obj\Debug\ArrayExcercise.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\ArrayExercise\ArrayExcercise\obj\Debug\ArrayExcercise.pdb
+C:\Users\student\Desktop\Kai\Week-3-C#\ArrayExercise\ArrayExcercise\bin\Debug\ArrayExcercise.exe
+C:\Users\student\Desktop\Kai\Week-3-C#\ArrayExercise\ArrayExcercise\bin\Debug\ArrayExcercise.pdb
+C:\Users\student\Desktop\Kai\Week-3-C#\ArrayExercise\ArrayExcercise\obj\Debug\ArrayExcercise.csprojResolveAssemblyReference.cache
